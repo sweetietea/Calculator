@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dim_foreground_material_light">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_11"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100dp"
+            android:gravity="center_vertical"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_22"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#fffa6c"
+            android:textStyle="bold"
+            android:textSize="50dp"
+            android:layout_marginTop="25dp"
+            android:gravity="center_vertical"
+            android:padding="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_33"
+            android:layout_gravity="center_horizontal"
+            android:singleLine="false"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:textSize="32dp"
+            android:layout_marginTop="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_44"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#fffa6c"
+            android:textStyle="bold"
+            android:textSize="40dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_vertical"
+            android:padding="30dp" />
+    </LinearLayout>
+</LinearLayout>

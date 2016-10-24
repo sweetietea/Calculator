@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Height">Height (cm.)</string>
+    <string name="Weight">Weight (kg.)</string>
+    <string name="Calculate">CALCULATE</string>
+
+</resources>
